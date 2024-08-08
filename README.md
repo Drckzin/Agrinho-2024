@@ -4,6 +4,10 @@ Nesta edição, é destacado a importância da integração entre os diversos se
 # **Resumo**
 O projeto visa criar uma plataforma informativa que ajude os usuários a entender as conexões entre as áreas urbanas e rurais, destacando como as mudanças econômicas e sociais moldam e influenciam essas interações.
 
+# **Ferramentas utilizadas**
+- **[Visual Studio Code](https://code.visualstudio.com/)** - Editor de código-fonte.
+- **[Git](https://git-scm.com/)** - Gerenciador de mudanças no código.
+
 # **Autores**
 - **[Samuel Cavalheiro](https://github.com/Drckzin)** - Desenvolvedor do projeto.
-- **[Bruna Bueno Ferreira](https://github.com/Drckzin)** - Orienteada do projeto.
+- **[Bruna Bueno Ferreira](https://github.com/Drckzin)** - Orientadora do projeto.

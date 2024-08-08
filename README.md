@@ -1,3 +1,1 @@
-﻿# Agrinho_2024
-
-Projeto do agrinho
+﻿# Agrinho: do campo à cidade, colhendo oportunidades.
